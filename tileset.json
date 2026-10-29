@@ -1,0 +1,51 @@
+{
+  "asset": {
+    "version": "1.1"
+  },
+  "geometricError": 1000,
+  "root": {
+    "transform": [
+      -0.9951335379586677,
+      0.09853548411544429,
+      0.0,
+      0,
+      -0.04578482934634409,
+      -0.4623919963581923,
+      0.8854927391603004,
+      0,
+      0.08725245573387103,
+      0.8811835223573014,
+      0.46465321358448425,
+      0,
+      556905.5975830221,
+      5624323.487186431,
+      2945884.63233564,
+      1
+    ],
+    "boundingVolume": {
+      "box": [
+        -66.0576171875,
+        -121.21533203125,
+        646.6994705200195,
+        18252.1953125,
+        0,
+        0,
+        0,
+        14982.318359375,
+        0,
+        0,
+        0,
+        506.28832244873047
+      ]
+    },
+    "geometricError": 0,
+    "refine": "ADD",
+    "content": {
+      "uri": "https://cosite.thk.52north.org/documents/951/link"
+    }
+  },
+  "extras": {
+    "source": "SRTM 30 m (USGS/SRTMGL1_003) with Landsat-derived texture; local origin EPSG:32645 238167,3065437",
+    "heights": "SRTM (EGM96 orthometric) heights; tile origin raised by the EGM96 undulation so ellipsoid heights are correct"
+  }
+}
